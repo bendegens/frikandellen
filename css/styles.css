@@ -251,7 +251,7 @@ footer a:hover, footer a:focus { color: #000; text-decoration: none; }
 
 .social ul li {
     margin: 5px;
-    list-style: none outside none;
+    list-style: none;
     display: inline-block;
 }
 /* ==========================================================================
