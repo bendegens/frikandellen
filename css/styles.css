@@ -196,18 +196,18 @@ nav ul li a { color: rgba(255, 255, 255, 0.6); padding: 20px; display: block; bo
 nav ul li a:hover, nav ul li a:focus { color: rgba(255, 255, 255, 1); text-decoration: none; }
 .indicator { position: absolute; right: 0 !important; }
 .pull { display: none; }
-.hero { background: url('../img/frikandellen.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0; height: auto; }
+.hero { background: url('../img/IMG_5619.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0; height: auto; }
 .hero p { color: #d0e7e9; font-style: italic; font-size: 17px; }
 .hero a { color: #fff; }
 .hero-play-btn { height: 99px; width: 99px; background: url('../img/play-btn.png') no-repeat center center; display: block; text-indent: -99999px; margin: 80px auto 260px; transition: all 1s ease; -moz-transition: all 1s ease; -webkit-transition: all 1s ease; -o-transition: all 1s ease; }
 .hero-play-btn:hover, .hero-play-btn:focus { transform: translate(0, -15px); -webkit-transform: translate(0, -15px); -o-transform: translate(0, -15px); -moz-transform: translate(0, -15px); }
 .get-started-btn { background-color: #7accc8; padding: 20px 80px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; font-size: 22px; letter-spacing: 2px; box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4); transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; display: inline-block; }
 .get-started-btn:hover, .get-started-btn:focus { text-decoration: none; background-color: #e8b968; }
-.download-now { background: #e8b968 url('../img/frikandels.png') no-repeat right 65px; background-size: 50%; }
+.download-now { background: #cf9f61 url('../img/footer-logo2.png') no-repeat right 65px; background-size: 50%; }
 .download-now p { color: #fff; font-size: 16px; margin: 40px 30px 40px 0; line-height: 30px; }
 .download-btn { border: solid 3px #fff; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; font-size: 17px; letter-spacing: 2px; transition: all 0.5s ease; padding: 15px 70px; display: inline-block; color: #fff; margin-bottom: 185px; }
 .download-btn:hover, .download-btn:focus { text-decoration: none; border-color: #a58347; color: #a58347; }
-.testimonials { background: #5b6869 url('../img/tBG01.jpg') no-repeat left center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 130px 0; }
+.testimonials { background: #5b6869 url('../img/blurred.jpg') no-repeat left center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 130px 0; }
 .features { background: #fff url('../img/arrowBG.png') no-repeat center -1px; padding: 70px 0; }
 .features p { color: #7a8387; font-size: 16px; word-spacing: 2px; line-height: 30px; }
 .features-leftcol { border-right: 1px solid rgba(208, 217, 226, 0.4); padding-right: 60px; }
@@ -220,7 +220,7 @@ nav ul li a:hover, nav ul li a:focus { color: rgba(255, 255, 255, 1); text-decor
 .flat-box:hover, .flat-box:focus { transform: translate(0, -15px); -webkit-transform: translate(0, -15px); -o-transform: translate(0, -15px); -moz-transform: translate(0, -15px); }
 .colourway { height: 346px; }
 .colour1 { background-color: #f69679; }
-.colour2 { background-color: #e8b968; }
+.colour2 { background-color: #cf9f61; }
 .colour3 { background-color: #7accc8; }
 .colour4 { background-color: #373b44; }
 .title { font-size: 15px; color: #9197a8; text-transform: uppercase; font-weight: 600; letter-spacing: 2px; padding: 20px 40px 0; }
@@ -229,7 +229,7 @@ nav ul li a:hover, nav ul li a:focus { color: rgba(255, 255, 255, 1); text-decor
 .controls a { color: #959595; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
 .controls a:hover, .controls a:focus { color: #555555; }
 .controls .prev { margin-right: 5px; }
-footer { background-color: #a58347; padding: 75px 0 220px; }
+footer { background-color: #cf9f61; padding: 75px 0 220px; }
 footer p { color: #fff; line-height: 30px; }
 .footer-nav { list-style: none; padding: 0; }
 .footer-nav li a { display: block; color: #fff; padding: 5px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
